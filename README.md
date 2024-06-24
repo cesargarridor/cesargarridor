@@ -17,13 +17,10 @@
 
 - 🔭 Actualmente soy estudiante
   
-- 🌱 Actualmente estoy aprendiendo Git, Java y GitHub
+- 🌱 Actualmente estoy aprendiendo React, Java y GitHub
+    
+- 💬 Pregúntame sobre SQL, Java, JavaScript
   
-- 👯 Estoy buscando colaborar en proyectos
-  
-- 💬 Pregúntame sobre SQL, Java, C#, JavaScript
-  
-- ⚡ Dato curioso: Me gustan los girasoles.
 
 <h2> Habilidades <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/cesargarridor?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
