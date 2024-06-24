@@ -5,7 +5,7 @@
 <p align='center'>
 </p>
 
-![Visitas al perfil](https://visitor-badge.glitch.me/badge?page_id=cesargarridor.cesargarridor)
+![](https://visitor-badge.glitch.me/badge?page_id=cesargarridor.cesargarridor)
 [![Github](https://img.shields.io/github/followers/cesargarridor?label=Follow&style=social)](https://github.com/cesargarridor)
 
 <div size='20px'> ¡Hola! Me llamo César. Gracias por tomarte el tiempo de visitar mi perfil de GitHub :smile: 
