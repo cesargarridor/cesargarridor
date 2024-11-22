@@ -15,11 +15,11 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 Actualmente soy estudiante de DAM.
+- 🔭 Actualmente soy estudiante de DAM
   
-- 🌱 Actualmente estoy aprendiendo React, Java y GitHub.
+- 🌱 Actualmente estoy aprendiendo React, Java y GitHub
     
-- 💬 Pregúntame sobre SQL, Java, JavaScript.
+- 💬 Pregúntame sobre SQL, Java, JavaScript
   
 
 <h2> Habilidades <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
