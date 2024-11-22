@@ -41,14 +41,12 @@
 <br>
   <br>
   
-[![Actividad en GitHub de César](https://activity-graph.herokuapp.com/graph?username=cesargarridor&theme=tokyonight)](https://git.io/praveenscience)
+[![Actividad en GitHub de César](https://activity-graph.herokuapp.com/graph?username=cesargarridor&theme=tokyonight&cache_bust=1)](https://git.io/praveenscience)
 
-| ![Estadísticas de GitHub de César](https://github-readme-stats.vercel.app/api?username=cesargarridor&show_icons=true&theme=tokyonight) | ![Racha de GitHub de César](https://github-readme-streak-stats.herokuapp.com/?user=cesargarridor&theme=tokyonight) |
+| ![Estadísticas de GitHub de César](https://github-readme-stats.vercel.app/api?username=cesargarridor&show_icons=true&theme=tokyonight&cache_bust=1) | ![Racha de GitHub de César](https://github-readme-streak-stats.herokuapp.com/?user=cesargarridor&theme=tokyonight&cache_bust=1) |
 | --- | --- |
-| ![Principales lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=cesargarridor&theme=tokyonight) | ![Estrellas en GitHub](https://github-readme-stats.vercel.app/api?username=cesargarridor&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+| ![Principales lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=cesargarridor&theme=tokyonight&cache_bust=1) | ![Estrellas en GitHub](https://github-readme-stats.vercel.app/api?username=cesargarridor&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight&cache_bust=1) |
 
 ![Tarjeta de chistes](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
 <br>
-
-
