@@ -1,52 +1,44 @@
+<h1 align="center">César Garrido</h1>
+<h3 align="center">Software Engineer · Backend & Cloud</h3>
+
 <p align="center">
+  Diseño y desarrollo de microservicios con Java y Spring Boot sobre AWS,<br>
+  con foco en código limpio, mantenible y orientado a producción.
 </p>
 
-<h1> ¡Hola, Compañer@s < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<p align='center'>
+<p align="center">
+  <a href="https://www.linkedin.com/in/césar-garrido-134906315/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://x.com/ceesargarridor"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+  <a href="mailto:cesargarrido2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-![](https://visitor-badge.glitch.me/badge?page_id=cesargarridor.cesargarridor)
-[![Github](https://img.shields.io/github/followers/cesargarridor?label=Follow&style=social)](https://github.com/cesargarridor)
+---
 
-<div size='20px'> ¡Hola! Me llamo César. Gracias por tomarte el tiempo de visitar mi perfil de GitHub :smile: 
-</div>
+## Sobre mí
 
-<h2> Sobre mí</h2>
+- 💼 Software Engineer especializado en desarrollo backend y arquitecturas de microservicios
+- ☁️ Trabajo con servicios AWS: Lambda, DynamoDB, Cognito, API Gateway
+- 🧩 Diseño de APIs REST, integración entre servicios (Feign) y procesamiento orientado a eventos
+- 🌱 Profundizando en arquitectura cloud, observabilidad y buenas prácticas de ingeniería
+- 💬 Pregúntame sobre Java, Spring Boot, SQL o diseño de APIs
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+## Stack tecnológico
 
-- 🔭 Actualmente soy estudiante de DAM
-  
-- 🌱 Actualmente estoy aprendiendo React, Java y GitHub
-    
-- 💬 Pregúntame sobre SQL, Java, JavaScript
-  
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,aws,dynamodb,postgres,mysql,docker,git,github,maven,react,js,html,css&perline=7" alt="Stack tecnológico">
+</p>
 
-<h2> Habilidades <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href= https://github.com/cesargarridor?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
-<a href= https://github.com/cesargarridor?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/spring.svg'> </a>
-<a href= https://github.com/cesargarridor?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
-<a href= https://github.com/cesargarridor?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/cesargarridor?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'> </a>
-<a href= https://github.com/cesargarridor?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://github.com/cesargarridor?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-
-
-<h2> Conéctate conmigo <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/césar-garrido-134906315/?trk=opento_sprofile_details'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://x.com/ceesargarridor'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://www.github.com/cesargarridor'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
-  
-<br>
-<br>
-  <br>
-  
-[![Actividad en GitHub de César](https://activity-graph.herokuapp.com/graph?username=cesargarridor&theme=tokyonight&cache_bust=1)](https://git.io/praveenscience)
-
-| ![Estadísticas de GitHub de César](https://github-readme-stats.vercel.app/api?username=cesargarridor&show_icons=true&theme=tokyonight&cache_bust=1) | ![Racha de GitHub de César](https://github-readme-streak-stats.herokuapp.com/?user=cesargarridor&theme=tokyonight&cache_bust=1) |
+| Área | Tecnologías |
 | --- | --- |
-| ![Principales lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=cesargarridor&theme=tokyonight&cache_bust=1) | ![Estrellas en GitHub](https://github-readme-stats.vercel.app/api?username=cesargarridor&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight&cache_bust=1) |
+| **Backend** | Java, Spring Boot, Spring Cloud OpenFeign, REST APIs |
+| **Cloud** | AWS Lambda, DynamoDB, Cognito, API Gateway |
+| **Datos** | DynamoDB, SQL (PostgreSQL / MySQL) |
+| **Frontend** | React, JavaScript, HTML, CSS |
+| **Herramientas** | Git, GitHub, Maven, Docker, IntelliJ IDEA |
 
-![Tarjeta de chistes](https://readme-jokes.vercel.app/api?theme=tokyonight)
+## Estadísticas de GitHub
 
-<br>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=cesargarridor&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesargarridor&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes principales">
+</p>
